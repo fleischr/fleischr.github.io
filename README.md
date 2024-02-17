@@ -5,7 +5,7 @@ Hey I'm Ryan!
 
 I am SAP BTP and ABAP development expert with a spice of blockchain/Web3.
 
-I have 11+ years of experience working in the SAP domain - and another 1+ year in the startups landscape too.
+I have 12+ years of experience working in the SAP domain - and another 1+ year in the startups landscape too.
 
 Prior experiences include:
 - Accenture : US Federal clients - ECC, CRM, eCommerce, WMS, Java, Node.js and S/4 HANA
