@@ -18,7 +18,9 @@ Prior experiences include:
 Currently serving as the technical steering committee co-chair of Baseline Protocol with OASIS, Enterprise Ethereum Alliance ([Github](https://github.com/eea-oasis/baseline), [Website](https://www.baseline-protocol.org/) )
 
 Social
+
 [Twitter](https://x.com/ryfleisch)
+
 [LinkedIn](https://www.linkedin.com/in/ryan-fleischmann-3aa59712/)
 
 Like my content?
